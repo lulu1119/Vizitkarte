@@ -1,0 +1,134 @@
+body{
+    background-color: rgb(207, 140, 196);
+    margin: auto 10%
+}
+
+
+
+
+.galvenesVirsraksts{
+    font-family: 'Domine', serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Young Serif', serif;
+    background-color: blueviolet;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.dala2{
+    height: auto;
+    background-color: rgb(153, 72, 228);
+}
+.virsraksts2{
+    font-family: 'Domine', serif;
+font-family: 'Kalnia', serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Young Serif', serif;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Domine', serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Young Serif', serif;
+}
+
+
+
+
+.dala3{
+    background-color: rgb(163, 103, 220);
+}
+
+.virsraksts3{
+    font-family: 'Domine', serif;
+font-family: 'Kalnia', serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Young Serif', serif;
+    display: flex;
+    justify-content: center;
+}
+
+
+.teksts3{
+    font-size:medium;
+    padding: 65px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.dala4{
+    background-color:rgb(194, 180, 207);
+    height: 700px;
+}
+
+.virsraksts4{
+    font-family: 'Domine', serif;
+font-family: 'Kalnia', serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Young Serif', serif;
+    display: flex;
+    justify-content: center;   
+}
+
+
+.teksts4{
+    font-size:medium;
+    padding: 65px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.imagecontainer{
+    margin-left: 1%;
+    gap: 50px;
+    display: flex;
+   justify-content: center;
+   align-items: flex-start;
+   height: 100vh
+}
+
+
+
+.responsive-image{
+    max-width: 40%; 
+    max-height: 40%;
+    margin: 0 auto;
+    display: block; 
+}
+
+
+
+
+
+.kajene{
+    background-color: rgb(132, 123, 139);
+    height: auto;
+}
+
+.logo{
+    margin-right: 3%;
+    display: flex;
+   justify-content: flex-end;
+   gap: 25px;
+}   
